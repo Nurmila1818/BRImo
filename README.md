@@ -1,0 +1,2 @@
+# BRImo
+Aplikasi digital banking
